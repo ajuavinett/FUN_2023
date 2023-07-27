@@ -16,7 +16,7 @@ Tutorial notebooks and slides for the [FUN 2023](https://www.funfaculty.org/conf
 2. But Binder is another option:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajuavinett/FUN_2023.git/)
 
-3. And a third option (necessary for working with NWB datasets) is using the [Dandihub](http://hub.dandiarchive.org).
+3. And a third option (necessary for working with NWB datasets) is cloning this repo in the [Dandihub](http://hub.dandiarchive.org).
 
 ### There are several ways to implement these notebooks in your class:
 - Run notebooks via Binder or Colab, as demonstrated above
