@@ -26,6 +26,7 @@ Tutorial notebooks and slides for the [FUN 2023](https://www.funfaculty.org/conf
 ### Teaching Resources Related to this workshop:
 - [Teaching with the Allen Institute for Brain Science resources](https://sites.google.com/ucsd.edu/neuroedu)
 - [Webinar on Allen Cell Types Data](https://www.youtube.com/watch?v=OQUOEkXPX8M)
+- [Neeurobiology Lab JupyterBook](http://BIPN145.github.io) 
 - [Neurobiology Lab Computer Labs](https://github.com/BIPN145/ComputerLabs)
 - [Introduction to Python for Biologists Course Materials](https://github.com/BILD62/)
 - [Neural Data Science Course Materials](https://github.com/BIPN162/Materials)
