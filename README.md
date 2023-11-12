@@ -1,12 +1,6 @@
 # Faculty for Undergraduate Neuroscience workshop (2023)
 
-Tutorial notebooks and slides for the [FUN 2023](https://www.funfaculty.org/conference_2023_wwu) workshop "Integrating programming into neuroscience courses"
-
-### By the end of this workshop, participants will be able to:
-* Identify multiple ways of integrating programming into their courses
-* Access and use internet-based computing platforms (e.g. Google Colab)
-* Write & edit code in a Google Colab notebooks
-* Access Neurodata Without Borders datasets for both teaching and research 
+Tutorial notebooks and slides for the [FUN 2023](https://www.funfaculty.org/conference_2023_wwu) workshop "Integrating programming into neuroscience courses" *and* the Society for Neuroscience workshop "Teaching Neuroscience: New Approaches to Electrophysiology Labs."
 
 ### There are three different ways you can interact with these materials from your browser:
 
@@ -23,11 +17,13 @@ Tutorial notebooks and slides for the [FUN 2023](https://www.funfaculty.org/conf
 - Set up a [JupyterHub](https://jupyterhub.readthedocs.io/en/stable/installation-guide-hard.html) for your course or university (e.g., the [UCSD DataHub](http://datahub.ucsd.edu))
 - Ask students to download the [Anaconda Distribution](https://www.anaconda.com/products/individual) of Python, which includes Jupyter Notebook, many useful packages and more, to run these notebooks locally
 
-### Teaching Resources Related to this workshop:
-- [Teaching with the Allen Institute for Brain Science resources](https://sites.google.com/ucsd.edu/neuroedu)
+### Teaching Resources related to this workshop:
+- [Various Lesson Plans with the Allen Institute for Brain Science resources](https://sites.google.com/ucsd.edu/neuroedu)
+- [Neurodata Without Borders for Education](http://nwb4edu.github.io)
 - [Webinar on Allen Cell Types Data](https://www.youtube.com/watch?v=OQUOEkXPX8M)
-- [Neeurobiology Lab JupyterBook](http://BIPN145.github.io) 
-- [Neurobiology Lab Computer Labs](https://github.com/BIPN145/ComputerLabs)
+- [Neeurobiology Lab JupyterBook](http://BIPN145.github.io)
+
+### Materials for coding Courses
 - [Introduction to Python for Biologists Course Materials](https://github.com/BILD62/)
 - [Neural Data Science Course Materials](https://github.com/BIPN162/Materials)
 
